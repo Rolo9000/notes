@@ -8,6 +8,7 @@
 **If you have finished this then ensure that *all* onenote tasks are completed on *all* pages before asking me what to do next**
 
 ###A reminder of how to validate
+
 `num = int(input("Enter a number between 1 and 6: "))
 while num < 1 or num > 6:
   num = int(input("Enter a number between 1 and 6: "))`
