@@ -9,11 +9,11 @@
 
 **A reminder of how to validate**
 
-`num = int(input("Enter a number between 1 and 6: "))
+`num = int(input("Enter a number between 1 and 6: "))`
 
-while num < 1 or num > 6:
+`while num < 1 or num > 6:`
 
-  num = int(input("Enter a number between 1 and 6: "))`
+`  num = int(input("Enter a number between 1 and 6: "))`
   
 [for loops reference site](https://www.w3schools.com/python/python_for_loops.asp)
 
