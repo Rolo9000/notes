@@ -12,6 +12,6 @@
 while num < 1 or num > 6:
   num = int(input("Enter a number between 1 and 6: "))`
   
-###[for loops reference site](https://www.w3schools.com/python/python_for_loops.asp)
+[for loops reference site](https://www.w3schools.com/python/python_for_loops.asp)
 
-###[A helpful website if you get stuck](https://www.w3schools.com/python/python_reference.asp)
+**[A helpful website if you get stuck](https://www.w3schools.com/python/python_reference.asp)**
