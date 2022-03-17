@@ -1,13 +1,13 @@
 # Notes for todays lesson 18/03/2022
 
-###Tasks
+##Tasks
 1. finish section 15
 2. do extension tasks
 3. do wordle task
 
 **If you have finished this then ensure that *all* onenote tasks are completed on *all* pages before asking me what to do next**
 
-###A reminder of how to validate
+##A reminder of how to validate
 
 `num = int(input("Enter a number between 1 and 6: "))
 while num < 1 or num > 6:
