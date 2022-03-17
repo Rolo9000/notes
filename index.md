@@ -4,6 +4,7 @@
 1. finish section 15
 2. do extension tasks
 3. do wordle task
+
 **If you have finished this then ensure that *all* onenote tasks are completed on *all* pages before asking me what to do next**
 
 ###A reminder of how to validate
@@ -13,4 +14,4 @@ while num < 1 or num > 6:
   
 ###[for loops reference site](https://www.w3schools.com/python/python_for_loops.asp)
 
-###**[A helpful website if you get stuck](https://www.w3schools.com/python/python_reference.asp)**
+###[A helpful website if you get stuck](https://www.w3schools.com/python/python_reference.asp)
