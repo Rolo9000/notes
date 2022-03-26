@@ -18,6 +18,3 @@
 [for loops reference site](https://www.w3schools.com/python/python_for_loops.asp)
 
 **[A helpful website if you get stuck](https://www.w3schools.com/python/python_reference.asp)**
-
-test:
-<iframe height="214px" width="100%" src="https://www.ons.gov.uk/visualisations/github/dvc357/Fig6/"></iframe>
